@@ -31,9 +31,10 @@ This project performs Exploratory Data Analysis (EDA) on technology company layo
 - Workforce impact analysis
 
 ## * Files in Repository
-- `Tech_Layoffs_EDA.ipynb` – Main EDA notebook
-- `tech_layoffs_cleaned.xlsx` – Cleaned dataset
-- `eda tech layoffs project presentation.pptx` – Project report
+- Jupyter Notebook for EDA
+- PowerPoint presentation summarizing insights
+- Tableau Dashboard for interactive visualization
+- Original dataset used for analysis
 
 ## * Conclusion
 The analysis highlights major layoff trends in the tech industry and identifies industries and regions most affected.
